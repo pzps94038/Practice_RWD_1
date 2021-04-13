@@ -66,7 +66,8 @@ img{
 }
 .fangroup a{
     text-decoration: none;
-    font-weight: 500;    
+    font-weight: 500;
+    display: block;    
 }
 .twitter{
     color:#00acef;
@@ -91,6 +92,7 @@ img{
     color:#10ccad;
     font-weight: 700;
     text-decoration: none;
+    display: block;    
 }
 /* content */
 .content{
